@@ -1,4 +1,4 @@
-# HouseCanary's PyCon2017 Coding Challenge
+# HouseCanary's PyBay2017 Coding Challenge
 
 Our challenge this year is very simple. Make the unit test in `challenge.py` pass!
 
